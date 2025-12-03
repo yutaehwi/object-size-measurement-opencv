@@ -73,5 +73,5 @@ OpenCV와 NumPy, imutils만 사용하며,
 1. 이 리포지토리를 로컬에 클론합니다.
 
    ```bash
-   git clone https://github.com/내아이디/object-size-measurement-opencv
+   git clone https://github.com/yutaehwi/object-size-measurement-opencv
    cd object-size-measurement-opencv
