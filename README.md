@@ -83,5 +83,10 @@ OpenCV와 NumPy, imutils만 사용하며,
 
 
 ## Contributors
+<<<<<<< HEAD
+- ChoYunseo
+
+=======
 - jinheepark601
 - 이주혁
+>>>>>>> upstream/main
