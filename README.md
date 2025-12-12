@@ -79,6 +79,7 @@ OpenCV와 NumPy, imutils만 사용하며,
    ```bash
    git clone https://github.com/yutaehwi/object-size-measurement-opencv
    cd object-size-measurement-opencv
+- jinheepark601 (추가 커밋)
 
 
 ## Contributors
