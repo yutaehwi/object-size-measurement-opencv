@@ -1,3 +1,7 @@
+## Contrubutors
+-SonHyunji
+
+
 # Measuring Size of Objects with OpenCV (Team Project Edition)
 
 이 프로젝트는 한 장의 이미지와 기준 물체(reference object) 하나만으로
@@ -75,10 +79,14 @@ OpenCV와 NumPy, imutils만 사용하며,
    ```bash
    git clone https://github.com/yutaehwi/object-size-measurement-opencv
    cd object-size-measurement-opencv
-## Contributors
-- SonHyunji
+- jinheepark601 (추가 커밋)
 
 
 ## Contributors
+<<<<<<< HEAD
 - ChoYunseo
 
+=======
+- jinheepark601
+- 이주혁
+>>>>>>> upstream/main
