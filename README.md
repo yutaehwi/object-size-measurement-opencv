@@ -78,3 +78,7 @@ OpenCV와 NumPy, imutils만 사용하며,
 ## Contributors
 - SonHyunji
 
+
+## Contributors
+- ChoYunseo
+
